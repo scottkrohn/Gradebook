@@ -1,0 +1,12 @@
+classname ASM104
+students 2
+("Michael Jordan",3)
+	"HW 1",0/50
+	"HW2",50/100
+	"Test 1",76/100
+	extra 0
+("Scott Krohn",3)
+	"HW 1",0/50
+	"HW2",30/100
+	"Test 1",99/100
+	extra 0

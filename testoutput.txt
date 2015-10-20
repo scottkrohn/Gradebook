@@ -1,0 +1,31 @@
+classname MAT151
+students 4
+("Amare Stoudimire",3)
+	"all assignment",0/10
+	"Exam 58",0/100
+	"test test test",100/100
+	extra 1001
+("Hans Nesse",5)
+	"test",100/100
+	"new assignment",100/100
+	"all assignment",100/100
+	"Exam 58",0/100
+	"test test test",111/100
+	extra 1001
+("Michael Jordan",5)
+	"COMMON",100/100
+	"Second Common",0/100
+	"all assignment",0/10
+	"Exam 58",0/100
+	"test test test",13/100
+	extra 1001
+("Scott Krohn",8)
+	"Assignment 1 - Essay",100/100
+	"new name for assignment",50/100
+	"New Assignment",30/40
+	"COMMON",0/1100
+	"Second Common",0/100
+	"all assignment",0/10
+	"Exam 58",0/100
+	"test test test",56/100
+	extra 1021

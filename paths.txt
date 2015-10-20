@@ -1,0 +1,7 @@
+LAPTOP
+INCLUDEPATH += /usr/bin/boost_1_51_0/
+LIBS += /usr/bin/boost_1_51_0/stage/lib/libboost_regex.a
+
+DESKTOP
+INCLUDEPATH += /usr/bin/boost_1_51_0/
+LIBS += /usr/bin/boost_1_51_0/boost/lib/libboost_regex.a

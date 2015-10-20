@@ -1,0 +1,11 @@
+classname Empty Class
+students 3
+("Les Stroud",1)
+	"HW Chapter 1.1",10/25
+	extra 0
+("Scott Krohn",1)
+	"HW Chapter 1.1",20/25
+	extra 0
+("Steve Nash",1)
+	"HW Chapter 1.1",10/25
+	extra 0

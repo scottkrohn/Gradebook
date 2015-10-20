@@ -1,0 +1,18 @@
+classname MAT151
+students 5
+("Michael Jordan",1)
+	"Assignment 1 - Essay",70/100
+	extra 0
+("Jessica Collins",1)
+	"Assignment 1 - Essay",100/100
+	extra 50
+("Danny Diveto",1)
+	"Assignment 1 - Essay",60/100
+	extra 10
+("Scott Krohn",2)
+	"Assignment 1 - Essay",10/100
+	"Assignment 2",50/100
+	extra 20
+("Zora Welch",1)
+	"Assignment 1 - Essay",0/100
+	extra 20
